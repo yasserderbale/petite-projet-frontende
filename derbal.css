@@ -1,0 +1,194 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+body{
+    background: linear-gradient(rgb(119, 119, 216),rgb(48, 8, 8));
+}
+.serv{
+    padding-top: 3%;
+    float: right;
+    color: white;
+    font-size: 20px;
+    align-items: center;
+}
+.logo{
+    padding-left: 12px;
+    padding-top: 2%;
+    padding-bottom: 2%;
+    float: left;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    font-size: 28px;
+    background-color: rgb(111, 111, 106);
+    border-radius: 100%;
+    color: beige;
+    
+}
+ul{
+    display: flex;
+    text-decoration: none;
+    align-items: center;
+}
+li{
+    margin: 0 24px;
+    list-style: none;
+    
+}
+.n1{
+    background-color: rgb(78, 33, 33);
+    height: 100px;
+}
+.n2{
+background-image: url("l-ecole-publique-sur-l-avenue-rustaveli-a-tbilissi-georgie-f0ywrj.jpg");
+    height: 95%;
+    width: 98%;
+    background-attachment: fixed;
+    
+
+    align-items: center;
+    
+}
+.m1{
+    
+    text-align: center;
+}
+
+.log{
+   text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 50px;
+    padding-top:18%;
+    margin-bottom: 15%;
+    color: brown;
+    
+}
+p{
+    margin-top: 2%;
+}
+li:hover{
+    background-color: rgb(111, 111, 106);
+    border-radius: 100%;
+
+}
+.log2{
+    padding:2% 0%;
+    margin: 0%;
+    text-align: center;
+    color: blue;
+}
+.reste{
+    width: 98%;
+    
+}
+img{
+    width: 33%;
+    
+}
+.reste1{
+    display: flex;
+}
+.butom{
+    border-radius: 100%;
+    background-color: red;
+    text-align: center;
+    width:8%;
+    
+}
+.inp{
+    margin-left: 50%;
+}
+.inp1{
+    margin-top: 14%;
+    width: 89%;
+    margin-left: 50%;
+
+}
+.rt{
+    text-align: center;
+    color: blue;
+}
+.complet{
+    margin-top: 3%;
+    display: flex;
+    background-color: grey;
+    width: 100%;
+    height: 30%;
+}
+.mer{
+    text-align: center;
+}
+.rt2{
+    text-align: center;
+    margin-top: 3%;
+    color: blue;
+    margin-bottom: 3%;
+}
+.mop:hover{
+    background-color: beige;
+}
+.maps{
+    float: right;
+}
+.form{
+    display: flex;
+    box-shadow: 0 0 10px rgba(0,0,0,0,2);
+    
+flex-direction: column;
+width: 43%;
+padding: 6%;
+background-color: rgb(243, 250, 250);
+border-radius: 16px;
+}
+.re{
+    display: flex;
+    justify-content: space-between;
+    padding-bottom: 8%;
+   
+
+}
+.li{
+    margin-bottom: 8%;
+
+}
+input{
+    padding-top: 2%;
+    outline: 0cap;
+
+}
+input:focus{
+    border: 1 solid red;
+
+}
+label{
+    margin-bottom: 3%;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.bod{
+}
+.er{
+    text-align: center;
+    padding-bottom: 77px;
+    font-size: 30px;
+}
+hr{
+    padding-top: 0px  ;
+}
+button{
+    margin-top: 3%;
+    height: 45px;
+    background-color: #17a2b8;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+.reste{
+    display:flex ;
+    align-items: center;
+    justify-content: center;
+ 
+}
+.h1{
+    
+    color: white;
+}
+
